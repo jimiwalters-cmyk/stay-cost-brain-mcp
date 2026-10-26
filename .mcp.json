@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stay-cost-brain": {
+      "type": "http",
+      "url": "https://staycostbrain.com/mcp"
+    }
+  }
+}

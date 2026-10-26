@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "stay-cost-brain",
+  "description": "Stay Cost Brain for Claude Code: tourist and hotel taxes from official sources, worked out for a stay.",
+  "owner": {
+    "name": "Stay Cost Brain",
+    "email": "hello@staycostbrain.com"
+  },
+  "plugins": [
+    {
+      "name": "stay-cost-brain",
+      "description": "Tourist, city and hotel taxes for 71 places, from each authority's own pages, dated and worked out night by night for your dates and guests, plus a link to live hotel prices. Read-only remote MCP server, no sign-in.",
+      "author": { "name": "Stay Cost Brain" },
+      "category": "travel",
+      "source": "./",
+      "homepage": "https://staycostbrain.com/mcp"
+    }
+  ]
+}
