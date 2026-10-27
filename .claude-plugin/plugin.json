@@ -2,7 +2,7 @@
   "name": "stay-cost-brain",
   "displayName": "Stay Cost Brain",
   "version": "1.0.0",
-  "description": "Tourist and hotel taxes from each authority's own pages: what a stay really adds on top of the room price, worked out night by night for your dates and guests, for 71 places in 19 countries (31 in the US) - plus a link to live hotel prices. Connects to Stay Cost Brain's hosted remote MCP server (https://staycostbrain.com/mcp). Read-only, no account, no sign-in.",
+  "description": "Tourist and hotel taxes from each authority's own pages: what a stay really adds on top of the room price, worked out night by night for your dates and guests, for 71 places in 18 countries (27 in the US) - plus a link to live hotel prices. Connects to Stay Cost Brain's hosted remote MCP server (https://staycostbrain.com/mcp). Read-only, no account, no sign-in.",
   "author": {
     "name": "Stay Cost Brain",
     "email": "hello@staycostbrain.com",
