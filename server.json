@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.staycostbrain/stay-cost-brain",
+  "title": "Stay Cost Brain",
+  "description": "Tourist and hotel taxes from official sources, worked out night by night for your dates and guests.",
+  "version": "1.0.0",
+  "websiteUrl": "https://staycostbrain.com/",
+  "repository": {
+    "url": "https://github.com/jimiwalters-cmyk/stay-cost-brain-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://staycostbrain.com/brand/mark.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://staycostbrain.com/mcp"
+    }
+  ]
+}
