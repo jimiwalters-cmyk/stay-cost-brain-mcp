@@ -69,6 +69,17 @@ Find **Stay Cost Brain** in the connectors directory, or Customize → Connector
 </details>
 
 <details>
+<summary><strong>Cursor</strong></summary>
+
+One click with Cursor installed: [Add to Cursor](https://staycostbrain.com/ai/) (the button on that page). Or add to
+`mcp.json` (this repository's [`mcp.json`](mcp.json) is the same entry):
+
+```json
+{ "mcpServers": { "stay-cost-brain": { "url": "https://staycostbrain.com/mcp" } } }
+```
+</details>
+
+<details>
 <summary><strong>Cline</strong></summary>
 
 Hosted server, nothing to clone or build. In Cline: MCP Servers → Remote Servers → name `stay-cost-brain`, URL

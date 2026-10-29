@@ -1,0 +1,22 @@
+{
+  "name": "stay-cost-brain",
+  "displayName": "Stay Cost Brain",
+  "version": "1.0.0",
+  "description": "Tourist and hotel taxes for 71 places in 18 countries, from each tax authority's own pages with the source and date, worked out night by night for the dates and guests - plus a link to live hotel prices. Read-only, no account.",
+  "author": {
+    "name": "Stay Cost Brain",
+    "email": "hello@staycostbrain.com"
+  },
+  "homepage": "https://staycostbrain.com/ai/",
+  "repository": "https://github.com/jimiwalters-cmyk/stay-cost-brain-mcp",
+  "license": "Apache-2.0",
+  "keywords": [
+    "tourist tax",
+    "city tax",
+    "hotel tax",
+    "travel",
+    "hotels",
+    "mcp"
+  ],
+  "logo": "logo.png"
+}
