@@ -69,6 +69,21 @@ Find **Stay Cost Brain** in the connectors directory, or Customize → Connector
 </details>
 
 <details>
+<summary><strong>Cline</strong></summary>
+
+Hosted server, nothing to clone or build. In Cline: MCP Servers → Remote Servers → name `stay-cost-brain`, URL
+`https://staycostbrain.com/mcp`. Or in `cline_mcp_settings.json`:
+
+```json
+{
+  "mcpServers": {
+    "stay-cost-brain": { "type": "streamableHttp", "url": "https://staycostbrain.com/mcp" }
+  }
+}
+```
+</details>
+
+<details>
 <summary><strong>Any other MCP client</strong></summary>
 
 ```json
