@@ -21,7 +21,7 @@ Website: [staycostbrain.com](https://staycostbrain.com) · Full data summary for
 
 Booking sites show the room price. The tax on top is often charged at the hotel, differs by star rating, season and
 age, and in many places is stacked from state, regional and city parts. Stay Cost Brain keeps sourced, dated tables
-for 71 places in 18 countries (including 27 in the US) and answers with the amounts, so an assistant can say
+for 129 places in 18 countries (including 85 in the US) and answers with the amounts, so an assistant can say
 what a stay will really cost.
 
 ## Tools
